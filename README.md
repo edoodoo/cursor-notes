@@ -53,3 +53,7 @@ Depois:
 1) me confirme em 5 bullets o que entendeu
 2) diga qual é o próximo passo único
 3) execute esse próximo passo sem recomeçar do zero
+
+git add context.md
+git commit -m "checkpoint: atualizar contexto da sessao"
+git push
